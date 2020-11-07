@@ -1,6 +1,6 @@
 # Django-practice
 
-This repository contains all django apps of CS50 Djano course. It has three apps:
+This repository contains all django apps of CS50 Django course. It has three apps:
 
 1. A simple hello app. (from which i learn about urls, views, templates, variables )
 
